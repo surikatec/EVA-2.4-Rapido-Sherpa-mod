@@ -1,1 +1,1 @@
-# EVA-2.4-Rapido-Sherpa-mod
+# EVA-2.4 Rapido + Sherpa mod
