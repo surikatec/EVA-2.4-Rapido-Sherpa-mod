@@ -1,4 +1,4 @@
-# EVA 2.4 | Rapido + Sherpa mod
+# EVA 2.4 6mm belts | Rapido + Sherpa mod
 
 I printed all parts from PCCF filament.
 
